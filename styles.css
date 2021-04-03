@@ -1,0 +1,13 @@
+
+
+.navbar {
+    background: gainsboro;
+}
+
+.view-mode i, .body-modal div > i {
+    color: lightgray;
+}
+
+.view-mode .btn {
+    border: none;
+}
